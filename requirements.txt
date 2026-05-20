@@ -1,6 +1,6 @@
-yfinance
-pandas
-pandas-ta
-google-genai
-python-dotenv
-streamlit
+streamlit>=1.30.0
+yfinance>=0.2.36
+pandas>=2.0.0
+pandas-ta>=0.3.14b0
+google-genai>=0.1.0
+python-dotenv>=1.0.0
